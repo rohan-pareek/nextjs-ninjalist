@@ -1,0 +1,17 @@
+.ninja-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.ninja-list li {
+    padding: 10px;
+    background-color: #fff;
+    border-left: 8px solid #fff;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.ninja-list li:hover {
+    border-left: 8px solid rgb(29, 131, 165);
+}
